@@ -36,3 +36,10 @@ Tampa Bay Shine provides professional residential, commercial, and specialty cle
 Tampa Bay Shine is a trusted home and office cleaning company serving Tampa, Riverview, Brandon, Wesley Chapel, Apollo Beach, and surrounding areas. We specialize in Standard Cleaning, Deep Cleaning, Move-In/Out, Office Cleaning, Airbnb turnovers, medical office cleaning, and event cleaning.
 
 Website: https://tampabayshine.com
+
+---
+
+## About Tampa Bay Shine
+
+Learn more about our services, coverage areas, and booking options at:  
+👉 https://tampabayshine.com/contact-us
