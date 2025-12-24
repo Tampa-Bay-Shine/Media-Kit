@@ -1,10 +1,19 @@
 # Tampa Bay Shine — Media Kit
 
-This repository contains **brand guidelines, colors, logos, and approved language** for publications, partners, and digital usage. Use these assets to keep Tampa Bay Shine’s branding consistent across marketing, media, and web.
+Welcome to the official **Tampa Bay Shine Media Kit**. This repository contains **brand guidelines, colors, logos, and approved language** for publications, partners, and digital usage.
 
 **Website:** https://tampabayshine.com  
 **Contact:** owner@tampabayshine.com  
 **Phone:** +1-727-351-1779  
+
+---
+
+## What’s inside
+
+- Brand colors + typography
+- Logo assets (light/dark)
+- Approved company descriptions
+- Quick links to key services + cities
 
 ---
 
@@ -27,7 +36,7 @@ This repository contains **brand guidelines, colors, logos, and approved languag
 
 ## Logo usage
 
-- Use the **light** or **dark** version based on background contrast.
+- Use the **light** or **dark** logo version based on background contrast.
 - Do not stretch or distort the logo.
 - Keep clear space around the mark for legibility.
 
@@ -35,6 +44,9 @@ This repository contains **brand guidelines, colors, logos, and approved languag
 - `tampa-bay-shine-logo-primary.png`
 - `tampa-bay-shine-logo-dark.png`
 - `tampa-bay-shine-logo-light.png`
+
+> Tip: Store logos in a `/logos` folder. If you add it, update this README with a direct link:
+> `https://github.com/Tampa-Bay-Shine/Media-Kit/tree/main/logos`
 
 ---
 
